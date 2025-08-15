@@ -10,6 +10,7 @@ Celem projektu jest zapoznanie się z biblioteką Bokeh umożliwiającą tworzen
 ## Dane
 - Dane pasażerów Titanica
 - 891 rekordów
+- 12 atrybutów
 
 ## Wykorzystane biblioteki
 - bokeh
