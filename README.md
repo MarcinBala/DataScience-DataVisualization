@@ -3,7 +3,7 @@
 Celem projektu jest zapoznanie się z biblioteką Bokeh umożliwiającą tworzenie rozbudowanych interaktywnych wizualizacji danych
 
 ## Wykresy
-- Wykres założony (nakładay)
+- Wykres złożony (nakładany)
 - Wykres kołowy
 - Interaktywny panel wykresów (z zakładkami)
 
